@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Detalhes do Aluno</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    
+    <nav class="navbar navbar-expand-lg" style="background-color: #37A35A;">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="cadastro-aluno.html">Cadastro de Aluno</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="lista-de-alunos.html">Lista de Alunos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="detalhe-aluno.html">Detalhes do Aluno</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sobre.html">Sobre</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+    <header class="bg-light text-center py-5 shadow-sm">
+        <div class="container">
+            <h1 class="display-4 fw-bold">Detalhes do Aluno</h1>
+            <p class="lead text-muted">Aqui você pode ver as informações completas do aluno.</p>
+        </div>
+    </header>
+
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-md-6">
+                <h3 class="fw-bold">Informações do Aluno</h3>
+                <dl class="row" id="aluno-detalhes">
+                </dl>
+            </div>
+            <div class="col-md-6">
+                <h3 class="fw-bold">Ações</h3>
+                <div class="d-flex">
+                    <a href="editar-aluno.html" class="btn btn-warning btn-lg me-2">Editar</a>
+                    <button id="btn-excluir" class="btn btn-danger btn-lg">Excluir</button>
+                </div>
+            </div>
+        </div>
+    </div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/detalhes-aluno.js"></script>
+</body>
+</html>

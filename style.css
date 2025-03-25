@@ -1,0 +1,32 @@
+#img-logo {
+    height: 50px;
+}
+
+#img-erminio {
+    height: 500px;
+    width: 500px;
+    border-radius: 8px;
+}
+
+.menu-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.menu-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.card a:hover {
+    color: #007bff;
+}
+
+a {
+    color: white;
+}

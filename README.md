@@ -1,1 +1,0 @@
-# trampo-igor-web
