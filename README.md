@@ -17,7 +17,7 @@ Um sistema completo para gerenciamento de alunos desenvolvido com ❤️, ☕ e 
 - **Validação de formulários** ✅ - Garante que os dados sejam inseridos corretamente
 - **Filtros avançados** 🔎 - Busca e filtragem na lista de alunos
 
-## 👨‍🍳 O Poder do Migual (Feature Secreta)
+## 👨‍🍳 O Poder do Mingau (Feature Secreta)
 Todo o sistema foi desenvolvido sob a inspiração culinária do **Hermínio Paixão**! 🧑‍🍳  
 Assim como seu famoso Migual:
 - **Rápido** ⚡ - Cadastro e consulta em segundos
@@ -31,7 +31,7 @@ Nosso time de desenvolvimento (que adora um Migual!):
 - **Luan Carvalho** - Mestre dos estilos 🎨
 - **Emanuel Rodrigues** - Guru do JavaScript 🧙‍♂️
 - **Marcus Batista** - Especialista em armazenamento 💾
-- **Davi Lima** - Garoto-propaganda do Migual 🍛
+- **Davi Lima** - Garoto-propaganda do Mingau 🍛
 
 ## 🛠️ Tecnologias Utilizadas
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) - Estrutura das páginas
@@ -47,7 +47,7 @@ Nosso time de desenvolvimento (que adora um Migual!):
 3. Preencha o formulário com os dados do aluno
 4. Confira na **Lista de Alunos** 📜
 5. Clique em um aluno para ver os **Detalhes** 🔍
-6. (Opcional) Convide o Hermínio para fazer Migual 🍛
+6. (Opcional) Convide o Hermínio para fazer Mingau 🍛
 
 ## 🍳 Receita do Código (Como o Hermínio faria)
 ```javascript
